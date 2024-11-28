@@ -11,3 +11,8 @@ non-linearities, presented in Exercise 4.7).
 ### Racetrack Problem
 
 The file `racetrack.py` is my solution to the exercise 5.12, using off-policy Monte Carl Control.
+
+
+### Gridworld Problem
+
+The file `gridworld.py` contains my solution to the exercises 6.9 and 6.10, using SARSA algorithm.
